@@ -1,1 +1,2 @@
-more modifications to same file
+
+solving conflicts in the same file
